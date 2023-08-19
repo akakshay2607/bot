@@ -1,0 +1,130 @@
+email1 = lakhwinder3282007@outlook.com
+pass3 = Pkvv@359287
+
+cities1 = Chennai,Bangalore,Kolkata,Ahmedabad
+
+sub_cats1 = National Others, Schengen Others, Tourist,Schengen Others
+
+outlook_email = Officialobototo@outlook.com
+out_pass = obototo@123
+
+receiver_emails = akakshay.aamir57@gmail.com
+
+Month_year = August,September
+
+DEBIT=
+DBCVV=
+DBEXPIRY=
+FIRST NAME=
+LAST NAME=
+
+CREDIT=2121223333332222
+CCCVV=123
+CCEXPIRY=01/10
+FIRST=ABC
+LAST=DEF
+
+Pin_code = 1234
+Mobile = 9090909090
+city = Pune
+state = Maharashtra
+
+em1_sub_creds
+em1 = ravi5635432@outlook.com
+pass1 = Pkvv@359287
+em1 = lakhwinder3282007@outlook.com
+pass2 = Pkvv@359287
+em1 = manmohann5269752@outlook.com
+pass3 = Pkvv@359287
+
+trigger1 = 0
+
+repeat_trigger1 = 0
+headless_trigger = 0
+slot_trigggers = D
+co_applicant_trigger = 1
+telegram_token = 6440293586:AAHdSWus6Xd0qOmPJImTO4yfsMbAJu156wk
+chat_id = 291876635
+
+E_id_1_Applicant 1
+
+First name - asdy
+
+Last name - Kumbhar
+
+Gender - MALE
+
+DOB - 26/03/2000
+
+Current Nationality - India
+
+Passport Number - 12367
+
+Passport Expiry Date - 24/03/2025
+
+country code - 91
+
+Contact number - 9011755523
+
+E_mail - ak@gmail.com
+
+E_id_1_Applicant 2
+
+First name - agdasf
+
+Last name - asdasd
+
+Gender - MALE
+
+DOB - 26/03/2000
+
+Current Nationality - India
+
+Passport Number - 1237
+
+Passport Expiry Date - 24/03/2025
+
+country code - 91
+
+Contact number - 9011755574
+
+E_mail - aks@gmail.com
+
+E_id_1_Applicant 3
+
+First name - ag
+
+Last name - Kumbhar
+
+Gender - MALE
+
+DOB - 26/03/2000
+
+Current Nationality - India
+
+Passport Number - 1237
+
+Passport Expiry Date - 24/03/2025
+
+country code - 91
+
+Contact number - 9011755574
+
+E_mail - aky.75@gmail.com
+
+Proxies
+216.97.236.188:12323:14a8bfee2f747:8f734970ee
+67.210.127.171:12323:14a8bfee2f747:8f734970ee
+104.234.111.75:12323:14a8bfee2f747:8f734970ee
+185.94.64.234:12323:14a8bfee2f747:8f734970ee
+188.191.105.246:12323:14a8bfee2f747:8f734970ee
+185.170.41.125:12323:14a8bfee2f747:8f734970ee
+91.212.216.105:12323:14a8bfee2f747:8f734970ee
+5.45.39.165:12323:14a8bfee2f747:8f734970ee
+88.209.223.237:12323:14a8bfee2f747:8f734970ee
+216.227.220.118:12323:14a8bfee2f747:8f734970ee
+104.234.71.175:12323:14a8bfee2f747:8f734970ee
+64.224.18.165:12323:14a8bfee2f747:8f734970ee
+216.227.222.72:12323:14a8bfee2f747:8f734970ee
+216.97.238.124:12323:14a8bfee2f747:8f734970ee
+104.234.188.6:12323:14a8bfee2f747:8f734970ee
